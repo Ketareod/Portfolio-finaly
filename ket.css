@@ -108,3 +108,6 @@ header {
     background-color: #FFFFFF;
     color: #0B1A35;
   }
+#tasks h2 {
+  margin: 10px;
+}
